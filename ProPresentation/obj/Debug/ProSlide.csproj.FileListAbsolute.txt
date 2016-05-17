@@ -1,0 +1,83 @@
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ProSlide.exe.config
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ProSlide.exe
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ProSlide.pdb
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\MainWindow.baml
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\MainWindow.g.cs
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\App.g.cs
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide_MarkupCompile.cache
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.g.resources
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.Properties.Resources.resources
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.csproj.GenerateResource.Cache
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.exe
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.pdb
+F:\C# Visual Studio\ProSlide\ProSlide\obj\Debug\ProSlide.csprojResolveAssemblyReference.cache
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\Microsoft.Expression.Interactions.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\System.Windows.Interactivity.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.xml
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.dll
+F:\C# Visual Studio\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.xml
+D:\ProSlide\ProSlide\bin\Debug\ProSlide.exe.config
+D:\ProSlide\ProSlide\obj\Debug\ProSlide.exe
+D:\ProSlide\ProSlide\obj\Debug\ProSlide.pdb
+D:\ProSlide\ProSlide\bin\Debug\ProSlide.exe
+D:\ProSlide\ProSlide\bin\Debug\ProSlide.pdb
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ProSlide\ProSlide\bin\Debug\System.Windows.Interactivity.dll
+D:\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.xml
+D:\ProSlide\ProSlide\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\obj\Debug\ProSlide.csprojResolveAssemblyReference.cache
+D:\ProSlide\ProSlide\obj\Debug\MainWindow.baml
+D:\ProSlide\ProSlide\obj\Debug\MainWindow.g.cs
+D:\ProSlide\ProSlide\obj\Debug\App.g.cs
+D:\ProSlide\ProSlide\obj\Debug\ProSlide_MarkupCompile.cache
+D:\ProSlide\ProSlide\obj\Debug\ProSlide.g.resources
+D:\ProSlide\ProSlide\obj\Debug\ProSlide.csproj.GenerateResource.Cache
+D:\ProSlide\ProSlide\obj\Debug\proPresentaion.Properties.Resources.resources
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.exe.config

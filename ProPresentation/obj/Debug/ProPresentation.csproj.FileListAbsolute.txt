@@ -1,0 +1,177 @@
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.exe.config
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.exe
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.pdb
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ProSlide\ProSlide\bin\Debug\System.Windows.Interactivity.dll
+D:\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.dll
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\ProSlide\ProSlide\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\ProSlide\ProSlide\bin\Debug\WPFCustomMessageBox.xml
+D:\ProSlide\ProSlide\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.csprojResolveAssemblyReference.cache
+D:\ProSlide\ProSlide\obj\Debug\MainWindow.baml
+D:\ProSlide\ProSlide\obj\Debug\MainWindow.g.cs
+D:\ProSlide\ProSlide\obj\Debug\App.g.cs
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation_MarkupCompile.cache
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.g.resources
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.csproj.GenerateResource.Cache
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.exe
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.pdb
+D:\ProSlide\ProSlide\obj\Debug\HelpWindow.baml
+D:\ProSlide\ProSlide\obj\Debug\HelpWindow.g.cs
+D:\ProSlide\ProSlide\obj\Debug\proPresentation.Properties.Resources.resources
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.exe.manifest
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.exe.manifest
+D:\ProSlide\ProSlide\bin\Debug\ProPresentation.application
+D:\ProSlide\ProSlide\obj\Debug\ProPresentation.application
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p1s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p1s2.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p1s3.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p2s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p2s2.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s2.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s3.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s4.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s5.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s6.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s7.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p3s8.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p4s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p4s2.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p5s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\Images\p6s1.jpg
+D:\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe.config
+D:\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe.manifest
+D:\ProPresentation\ProPresentation\bin\Debug\ProPresentation.application
+D:\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe
+D:\ProPresentation\ProPresentation\bin\Debug\ProPresentation.pdb
+D:\ProPresentation\ProPresentation\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\ProPresentation\ProPresentation\bin\Debug\System.Windows.Interactivity.dll
+D:\ProPresentation\ProPresentation\bin\Debug\WPFCustomMessageBox.dll
+D:\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\ProPresentation\ProPresentation\bin\Debug\WPFCustomMessageBox.xml
+D:\ProPresentation\ProPresentation\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.csprojResolveAssemblyReference.cache
+D:\ProPresentation\ProPresentation\obj\Debug\HelpWindow.baml
+D:\ProPresentation\ProPresentation\obj\Debug\MainWindow.baml
+D:\ProPresentation\ProPresentation\obj\Debug\HelpWindow.g.cs
+D:\ProPresentation\ProPresentation\obj\Debug\MainWindow.g.cs
+D:\ProPresentation\ProPresentation\obj\Debug\App.g.cs
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation_Content.g.cs
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation_MarkupCompile.cache
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.g.resources
+D:\ProPresentation\ProPresentation\obj\Debug\proPresentation.Properties.Resources.resources
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.csproj.GenerateResource.Cache
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.exe.manifest
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.application
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.exe
+D:\ProPresentation\ProPresentation\obj\Debug\ProPresentation.pdb
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe.config
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.exe
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.pdb
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p1s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p1s2.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p1s3.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p2s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p2s2.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s2.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s3.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s4.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s5.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s6.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s7.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p3s8.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p4s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p4s2.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p5s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Images\p6s1.jpg
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe.manifest
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ProPresentation.application
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ProPresentation.exe
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ProPresentation.pdb
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Microsoft.Expression.Interactions.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\System.Windows.Interactivity.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\WPFCustomMessageBox.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.xml
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\WPFCustomMessageBox.xml
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.csprojResolveAssemblyReference.cache
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\HelpWindow.baml
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\MainWindow.baml
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\HelpWindow.g.cs
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\MainWindow.g.cs
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\App.g.cs
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation_Content.g.cs
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation_MarkupCompile.cache
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.g.resources
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\proPresentation.Properties.Resources.resources
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.csproj.GenerateResource.Cache
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.exe.manifest
+G:\D Drive\ProPresentation\ProPresentation\obj\Debug\ProPresentation.application
